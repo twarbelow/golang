@@ -16,5 +16,7 @@ We've written our documentation in three phases:
 2. Should-have: the content here will make you a very effective member of our team
 3. Nice-to-have: if you know and understand these principles you're going to be an outstanding teammate!
 
+Contributing
 
+If you'd like to contribute to our documentation, you're welcome to do so. We're not looking to write a whole new book on this subject, so please keep that in mind. We also have a page on how to effectively contribute.
 
