@@ -31,7 +31,7 @@ Go has several beginner-level "gotchas" and "quirks" that will trip you up, and 
 
 * curly braces cannot be on a line by themselves after function declarations, if statements, for loops, etc.
 * data types are declared after, not before, eg `var myGreeting string`
-* there are a LOT of daat types you can use, and lots of choice for numeric types
+* there are a LOT of data types you can use, and lots of choice for numeric types
 * there's no "public" or "private" declarations, any method in a package with an uppercase first letter \(eg `Println`\) is exported as "public" where any method that starts with a lowercase first letter \(eg `myPrivateMethod`\) is not exported and only usable within the scope of the package itself
 * you can have several files in a folder to separate your code, but only one can have a "main" function, and it will usually be called "main.go"; all other files in that same folder need to be part of the same "package", or be a test file
 * test files are named after the package of that folder, but ends in `"_test"`; for example if you have `package "main"` in your code, your tests would be `package "main_test"`
